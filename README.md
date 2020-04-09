@@ -3,5 +3,4 @@
 
 基于bootstrap，jquery & clipboard
 接口https://v1.hitokoto.cn
-
-from <a herf="http://www.wohenfang.com" target="_blank">我很方博客</a>
+ <a href="http://www.wohenfang.com" target="_blank">@我很方博客</a>
